@@ -1,0 +1,30 @@
+h1 {
+    color: red;
+}
+
+#a1 {
+    border: solid;
+    border-width: 15px;
+    margin: 10px 550px 600px 550px;
+    padding-bottom: 600px;
+    border-radius: 5%;
+}
+
+#a2 {
+    border: solid;
+    margin: 0% 25% 0% 25%;
+    border-width: 10px;
+}
+
+#a3 {
+    background-color: royalblue;
+}
+
+#arun1 {
+    text-align: right;
+}
+
+#a10 {
+    border: solid;
+    border-width: 5px;
+}
